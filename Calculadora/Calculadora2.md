@@ -4,7 +4,7 @@ Iniciar la Aplicación:
 Ejecute el código en un entorno Python compatible con Tkinter (como un IDE o consola). Se abrirá una ventana que muestra la calculadora.
 
 Ingresar Números y Operadores: 
-Utilice los botones numéricos del 0 al 9 y los botones de operadores matemáticos (+, -, *, /) para ingresar su expresión matemática. Los números y operadores se mostrarán en la parte inferior de la ventana.
+Utilice los botones numéricos del 0 al 9 y los botones de operadores matemáticos (+, -, *, /) para ingresar su expresión matemática. Los números y operadores se mostrarán en la parte inferior de la ventana, el programa solo admite clicks en la interface, no entradas de teclado.
 
 Potenciación: 
 Utilice el botón "^" para realizar una operación de potenciación. Por ejemplo, para calcular 2 elevado a la 3, ingrese "2^3".
