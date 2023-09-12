@@ -53,4 +53,5 @@ for button in buttons:
         col = 0
         row += 1
 
-root.mainloop()  # Iniciar el bucle principal de la interfaz gráfica
+root.mainloop()  
+# Iniciar el bucle principal de la interfaz gráfica

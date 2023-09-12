@@ -51,3 +51,5 @@ elif e == "3":
 else:
 
     print("Dato incorrecto")
+
+#CODIGO FUNCIONAL

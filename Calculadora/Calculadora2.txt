@@ -19,4 +19,4 @@ Visualización de Resultados:
 El resultado se mostrará en la parte inferior de la ventana, en lugar de la entrada actual. Además, en la parte superior de la ventana, se mostrará una "memoria" que representa la expresión evaluada.
 
 Errores: 
-Si ingresa una expresión matemática no válida o hay un error en los cálculos, se mostrará un mensaje de error en lugar del resultado.
+Si ingresa una expresión matemática no válida o hay un error en los cálculos, se mostrará un mensaje de error en lugar del resultado, se debera presionar la tecla "C" para que funcione corectamente
